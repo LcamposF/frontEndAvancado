@@ -7,7 +7,7 @@ Este repositório contém os exercícios da Aula1 - React
 Solução: 
 Nesta atividade, foram desenvolvidos quatro componentes independentes em React: Adicao, Subtracao, Multiplicacao e Divisao. Cada componente é responsável por executar uma operação aritmética entre dois valores numéricos (num1 e num2), recebidos via propriedades (props).
 
-Cada componente retorna um elemento <h1> com a seguinte estrutura:
+Cada componente retorna um elemento '<h1>' com a seguinte estrutura:
 ![image](https://github.com/user-attachments/assets/3614092d-ee4b-48e3-9a0c-010e9a6f1cee)
 
 Após a criação dos componentes, fiz a importação de todos dentro do 'App.jsx', e atribuí os valores das variáveis 'num1' e 'num2':
