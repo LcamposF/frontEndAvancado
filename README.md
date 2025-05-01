@@ -22,6 +22,8 @@ Após a criação dos componentes, fiz a importação de todos dentro do 'App.js
 
 📚 Questão B) Crie um componente chamado “PrecisoEstudar.jsx”. Esse componente deve renderizar a seguinte frase dentro de uma tag 'h1': “Preciso estudar NOME-DE-ALGUMA-TECNOLOGIA”. O componente deve ter uma propriedade chamada “nomeDaTecnologia” que irá exibir o nome da tecnologia na frase. Importe esse componente criado para o App.jsx e passe o nome da tecnologia como propriedade com o objetivo de exibir a frase inteira na tela.
 
+ <h1>Solução: </h1>
+
 Além dos componentes matemáticos, foi criado o componente PrecisoEstudar, que exibe uma mensagem motivacional indicando uma tecnologia que estou estudando. O nome da tecnologia é passado como props (nomeDaTecnologia) e incluído na frase exibida dentro de um 'h1':
 
 ![image](https://github.com/user-attachments/assets/9aa71f1e-4fd0-4306-b39a-c384d3e56232)
