@@ -4,7 +4,8 @@ Este repositório contém os exercícios da Aula1 - React
 
 📚 Questão A) Crie 4 componentes no seu projeto: Adicao, Subtracao, Multiplicacao e Divisao. Esses componentes devem renderizar a seguinte frase dentro de uma tag 'h1': “O resultado de num1 + num2 é igual a resultado”. Use: (-) para subtração (*) para multiplicação (/) para divisão As variáveis 'num1' e 'num2' são atributos do seu componente. Importe esses componentes criados para o App.js e passe os valores de num1 e num2 como propriedade com o objetivo de exibir a frase inteira na tela.
 
-Solução: 
+ <h1>Solução: </h1> 
+ 
 Nesta atividade, foram desenvolvidos quatro componentes independentes em React: Adicao, Subtracao, Multiplicacao e Divisao. Cada componente é responsável por executar uma operação aritmética entre dois valores numéricos (num1 e num2), recebidos via propriedades (props).
 
 Cada componente retorna um elemento 'h1'com a seguinte estrutura:
